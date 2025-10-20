@@ -12,6 +12,10 @@ zig build -Doptimize=ReleaseFast
 
 ## Usage
 
+Take zig-out/bin/picowatch and put it in your path
+
+or
+
 ```bash
 ./zig-out/bin/picowatch <path_to_file_or_directory>
 ```
