@@ -4,6 +4,8 @@ A Zig utility that watches a file or directory and automatically sends Command-R
 
 Mostly written by claude sonnet 4.5
 
+Only tested on an Apple M1 Max with macOS 15.7.1 (24G231)
+
 ## Building
 
 ```bash
